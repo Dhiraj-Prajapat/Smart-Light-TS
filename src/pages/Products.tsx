@@ -28,13 +28,13 @@ function Products() {
       name: "NEMA-Mounted VOLC 1160",
       description:
         "Advanced street light controller with NEMA mounting capabilities.",
-      image: "/NEMA.png",
+      image: "/Nema-box.jpg",
     },
     {
       id: 3,
       name: "Retrofit Street Light Controller VOLC 2160",
       description: "Retrofit solution for existing street light infrastructure.",
-      image: "/RetrofitController.png",
+      image: "/sensor.webp",
     },
     {
       id: 4,
@@ -97,9 +97,9 @@ function Products() {
         </div>
 
         {/* Product Showcase */}
-        <div className="grid md:grid-cols-2 gap-8 bg-white rounded-none overflow-hidden" data-aos="zoom-in">
+        <div className="grid md:grid-cols-2 bg-white rounded-none overflow-hidden" data-aos="zoom-in">
           {/* Image Section */}
-          <div className="relative aspect-[4/3] sm:aspect-auto bg-black">
+          <div className="relative aspect-[4/3] sm:aspect-auto bg-white">
             <img
               src={products[activeProduct].image}
               alt={products[activeProduct].name}
@@ -127,7 +127,7 @@ function Products() {
           </div>
 
           {/* Content Section */}
-          <div className="p-8">
+          <div className="p-8 bg-gradient-to-tl from-indigo-100 to-transparent">
             <div className="text-sm text-gray-600 mb-3">
               Products {activeProduct + 1}/{products.length}
             </div>

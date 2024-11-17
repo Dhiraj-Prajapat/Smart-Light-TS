@@ -6,7 +6,7 @@ const Ecosystem: React.FC = () => {
   
 
   return (
-    <div className="max-w-5xl mx-auto pt-24 pb-28 p-6">
+    <div className="w-full mx-auto pt-24 pb-28 px-[12%] bg-gradient-to-bl from-sky-100 via-indigo-100 to-transparent">
       <div className="inline-block mb-10" data-aos="fade-right">
         <span className="px-8 py-2 text-lg sm:text-xl font-medium bg-gradient-to-r from-indigo-400 via-transparent to-transparent text-sky-900" >
           Ecosystem
