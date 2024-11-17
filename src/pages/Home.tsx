@@ -8,7 +8,7 @@ const Home: React.FC = () => {
         <Navbar />
         <div
           className="relative h-screen bg-cover bg-center"
-          style={{ backgroundImage: 'url(public/Hero_section.png)' }}
+          style={{ backgroundImage: 'url(/Hero_section.png)' }}
         >
           <div className="flex flex-col items-center justify-center pt-[10%] h-full bg-black bg-opacity-50 text-center text-white">
             <p className="text-xl pb-4 font-thin">Smart Lighting Solutions</p>
