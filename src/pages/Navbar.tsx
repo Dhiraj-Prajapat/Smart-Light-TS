@@ -6,7 +6,7 @@ const Navbar: React.FC = () => {
       <nav className="flex justify-between items-center p-4 px-4 sm:px-8 md:px-12 lg:px-48 bg-opacity-30 fixed top-0 w-full bg-black z-50 border-b border-gray-800">
         <a href="#"><div className="text-white text-xl font-bold flex items-center">
           <img 
-            src="public/logo.png" 
+            src="/logo.png" 
             alt="Logo" 
             className="h-8 w-8" 
           />
