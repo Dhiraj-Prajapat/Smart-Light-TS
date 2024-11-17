@@ -1,6 +1,7 @@
 # Smart Lights - react.js
 ![Screenshot 2024-11-17 173723](https://github.com/user-attachments/assets/c20a1d20-1bf4-4114-8d8f-7703ccbd63af)
 
+netlify = https://smartlights.netlify.app
 Smart Lights is a city management platform designed to enhance street lighting systems by reducing energy consumption, ensuring real-time analytics, and increasing security. The platform provides city managers with tools to monitor, control, and analyze the street light infrastructure efficiently.
 
 ## Features
