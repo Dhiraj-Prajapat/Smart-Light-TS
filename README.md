@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Smart Lights - react.js
 ![Screenshot 2024-11-17 173723](https://github.com/user-attachments/assets/c20a1d20-1bf4-4114-8d8f-7703ccbd63af)
 
@@ -77,7 +75,6 @@ smart-lights/
 
 
 
->>>>>>> a559dd53e30a15eb347f0b9ebf49b01babc183d3
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
