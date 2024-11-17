@@ -1,3 +1,83 @@
+<<<<<<< HEAD
+=======
+# Smart Lights - react.js
+![Screenshot 2024-11-17 173723](https://github.com/user-attachments/assets/c20a1d20-1bf4-4114-8d8f-7703ccbd63af)
+
+netlify = https://smartlights.netlify.app
+Smart Lights is a city management platform designed to enhance street lighting systems by reducing energy consumption, ensuring real-time analytics, and increasing security. The platform provides city managers with tools to monitor, control, and analyze the street light infrastructure efficiently.
+
+## Features
+
+- **Saves on power consumption & related costs**
+- **Lowers downtimes** in the street light network
+- **Detects power thefts** and ensures proactive measures
+- **Smart monitoring and control** of street light infrastructure
+- **Real-time actionable analytics** on power failures, lamp malfunctions, voltage issues, etc.
+- **Increased security** in neighborhoods
+
+## Tech Stack
+
+- **Frontend**: React.js, TypeScript, Tailwind CSS, React Router
+- **Icons**: Lucide Icons
+- **Routing**: React Router for page navigation
+
+## Getting Started
+
+Follow these instructions to get the project up and running on your local machine.
+
+### Prerequisites
+
+Before starting, you need to have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14 or later)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Installation
+
+ 1. Clone the Repository:
+   git clone https://github.com/your-username/smart-lights.git
+   cd smart-lights
+
+2. Install Dependencies and Run the following command to install all the necessary packages:
+
+npm install
+Run the Development Server:
+
+3. After installation, you can start the local server by running:
+
+npm run dev
+
+This will start the application at http://localhost:3000.
+
+
+Project Structure
+Here is the structure of the project:
+
+
+smart-lights/
+├── public/
+│   └── all-images here
+├── src/
+│   ├── pages/
+│   │   ├── Home.tsx
+│   │   ├── Navbar.tsx
+│   │   ├── Ecosystem.tsx
+│   │   ├── Products.tsx
+│   │   ├── FeatureList.tsx
+│   │   └── Footer.tsx 
+│   ├── App.tsx
+│   ├── index.tsx
+│   └── styles/
+│       └── index.css
+└── package.json
+
+
+
+
+
+
+
+>>>>>>> a559dd53e30a15eb347f0b9ebf49b01babc183d3
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

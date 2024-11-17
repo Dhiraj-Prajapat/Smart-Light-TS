@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useEffect } from "react";
 import Ecosystem from "./pages/Ecosystem";
 import FeatureList from "./pages/FeatureList";
@@ -33,3 +34,29 @@ const App: React.FC = () => {
 
 export default App;
 
+=======
+import Ecosystem from "./pages/Ecosystem";
+import FeatureList from "./pages/FeatureList";
+import Footer from "./pages/Footer";
+import Home from "./pages/Home";
+import Products from "./pages/Products";
+
+const App: React.FC = () => {
+  return (
+    <>
+      
+      <div>
+        <Home />
+        <Ecosystem />
+        <Products />
+        <FeatureList />
+        <Footer />
+      </div>
+    </>
+  );
+};
+
+
+export default App;
+
+>>>>>>> a559dd53e30a15eb347f0b9ebf49b01babc183d3
