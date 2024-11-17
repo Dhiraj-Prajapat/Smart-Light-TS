@@ -2,7 +2,7 @@
 
 export default function Footer() {
   return (
-    <footer className="relative w-full h-[50%] mx-auto bg-[#000919] text-white overflow-hidden" data-aos="zoom-in">
+    <footer className="relative w-full h-[50%] mx-auto bg-[#000919] text-white overflow-hidden">
       {/* Background Image */}
       <div
         className="absolute inset-0 z-0"
