@@ -7,7 +7,7 @@ export default function Footer() {
       <div
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: "url('public/Footer.png')",
+          backgroundImage: "url('/Footer.png')",
           backgroundPosition: "right center",
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
@@ -20,7 +20,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-20">
           <div className="flex items-center gap-2 mb-8 md:mb-0">
             <img
-              src="public/logo.png"
+              src="/logo.png"
               alt="LOGO"
               className="h-10 w-10"
             />
