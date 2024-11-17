@@ -21,32 +21,32 @@ function Products() {
       name: "Centralized Control & Monitoring System",
       description:
         "Designed indigenously for street lighting projects, the CCMS offers a complete feeder panel for a group of 30-50 street lights.",
-      image: "public/centralized-street-light.jpg",
+      image: "/centralized-street-light.jpg",
     },
     {
       id: 2,
       name: "NEMA-Mounted VOLC 1160",
       description:
         "Advanced street light controller with NEMA mounting capabilities.",
-      image: "public/NEMA.png",
+      image: "/NEMA.png",
     },
     {
       id: 3,
       name: "Retrofit Street Light Controller VOLC 2160",
       description: "Retrofit solution for existing street light infrastructure.",
-      image: "public/RetrofitController.png",
+      image: "/RetrofitController.png",
     },
     {
       id: 4,
       name: "Retrofit Street Light Controller VOLC 2180",
       description: "Enhanced retrofit controller with advanced features.",
-      image: "public/volc-2180.avif",
+      image: "/volc-2180.avif",
     },
     {
       id: 5,
       name: "Retrofit Street Light Controller VOLC 4180",
       description: "Premium retrofit solution for smart city applications.",
-      image: "public/volc-4180.webp",
+      image: "/volc-4180.webp",
     },
   ];
 
