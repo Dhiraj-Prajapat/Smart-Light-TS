@@ -11,7 +11,7 @@ const Navbar: React.FC = () => {
 
   return (
     <div>
-      <nav className="flex justify-between items-center p-4 px-4 sm:px-8 md:px-12 lg:px-48 bg-opacity-90 sm:bg-opacity-60 sm:fixed  top-0 w-full bg-black z-40 border-b border-gray-900">
+      <nav className="flex justify-between items-center p-4 px-4 sm:px-8 md:px-12 lg:px-48 bg-opacity-90 sm:bg-opacity-60 sm:fixed  top-0 w-full bg-black z-40 border-b border-gray-900" data-aos="fade-down">
         <a href="#">
           <div className="text-white text-xl font-bold flex items-center">
             <img src="/logo.png" alt="Logo" className="h-8 w-8" />
