@@ -28,7 +28,7 @@ const Ecosystem: React.FC = () => {
                 <div className="relative p-6 border-2 border-blue-500 rounded-2xl bg-white">
                   <div className="w-4 h-4 flex items-center justify-center">
                     <img
-                      src="public/street_light_controler.png"
+                      src="/street_light_controler.png"
                       alt={`Street Light Controller ${i}`}
                     />
                   </div>
@@ -47,7 +47,7 @@ const Ecosystem: React.FC = () => {
           <div className="relative p-1">
             <div className="absolute inset-0 border-2 border-dashed border-gray-300 rounded-3xl" />
             <div className="relative h-20 w-20 p-4 m-2 items-center justify-center bg-white border rounded-2xl">
-              <img src="public/gateway_png.png" alt="Gateway" />
+              <img src="/gateway_png.png" alt="Gateway" />
             </div>
           </div>
           <h3 className="font-semibold">Gateway</h3>
@@ -62,7 +62,7 @@ const Ecosystem: React.FC = () => {
             <div className="absolute inset-0 border-2 border-dashed border-gray-300 rounded-3xl" />
             <div className="relative h-20 w-20 p-4 m-2 items-center justify-center bg-white border rounded-2xl">
               <img
-                src="public/cloud_based management.png"
+                src="/cloud_based management.png"
                 alt="Cloud-based Management System"
               />
             </div>
@@ -84,7 +84,7 @@ const Ecosystem: React.FC = () => {
           <div className="relative p-1">
             <div className="absolute inset-0 border-2 border-dashed border-gray-300 rounded-3xl" />
             <div className="relative h-20 w-20 p-4 m-2 items-center justify-center bg-white border rounded-2xl">
-              <img src="public/users_png.png" alt="Users" />
+              <img src="/users_png.png" alt="Users" />
             </div>
           </div>
           <h3 className="font-semibold">Users</h3>
@@ -98,7 +98,7 @@ const Ecosystem: React.FC = () => {
           <div className="relative p-1">
             <div className="absolute inset-0 border-2 border-dashed border-gray-300 rounded-3xl" />
             <div className="relative h-20 w-20 p-4 m-2 items-center justify-center bg-white border rounded-2xl">
-              <img src="public/evaluation_png.png" alt="Evaluation" />
+              <img src="/evaluation_png.png" alt="Evaluation" />
             </div>
           </div>
           <h3 className="font-semibold">Evaluation</h3>
