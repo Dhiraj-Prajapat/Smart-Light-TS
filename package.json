@@ -11,6 +11,10 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.0",
+<<<<<<< HEAD
+    "aos": "^2.3.4",
+=======
+>>>>>>> a559dd53e30a15eb347f0b9ebf49b01babc183d3
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.460.0",
