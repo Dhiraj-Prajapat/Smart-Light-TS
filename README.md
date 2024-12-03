@@ -48,33 +48,6 @@ npm run dev
 This will start the application at http://localhost:3000.
 
 
-Project Structure
-Here is the structure of the project:
-
-
-smart-lights/
-├── public/
-│   └── all-images here
-├── src/
-│   ├── pages/
-│   │   ├── Home.tsx
-│   │   ├── Navbar.tsx
-│   │   ├── Ecosystem.tsx
-│   │   ├── Products.tsx
-│   │   ├── FeatureList.tsx
-│   │   └── Footer.tsx 
-│   ├── App.tsx
-│   ├── index.tsx
-│   └── styles/
-│       └── index.css
-└── package.json
-
-
-
-
-
-
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
